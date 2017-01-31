@@ -1,33 +1,18 @@
 Java 9 Image for Docker
 ===
 
+Java 9 released now officially.  [More info](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+
 Link: https://hub.docker.com/r/rayyildiz/java9/
 
-<<<<<<< HEAD
-Current java : Latest version : *9 ea154*
-=======
-Current java : Latest version : *9 ea153*
->>>>>>> origin/master
+Current java : Latest version : **9.0.1**
 
 Tags:
-* jre
-* jdk
-* jdkea145
-* jreea145
-* jdkea147
-* jdkea148
-* jdkea149
-* jdkea151
-* jreea146
-* jreea147
-* jreea148
-* jreea149
-<<<<<<< HEAD
-* jreea154
-* latest (ea154)
-=======
-* latest (ea153)
->>>>>>> origin/master
+* jre ( version is *9.0.1*)
+* jdk ( version is *9.0.1*)
+* jre_9.0.1
+* jdk_9.0.1
+* latest (jre)
 
 [![](https://images.microbadger.com/badges/image/rayyildiz/java9.svg)](https://microbadger.com/images/rayyildiz/java9 "Get your own image badge on microbadger.com")
 
