@@ -4,7 +4,11 @@ MAINTAINER Ramazan AYYILDIZ <rayyildiz@gmail.com>
 # Java Version
 ENV  JAVA_VERSION=9 \
      JAVA_UPDATE=ea \
+<<<<<<< HEAD
      JAVA_BUILD=154  \
+=======
+     JAVA_BUILD=153  \
+>>>>>>> origin/master
      JAVA_HOME=/usr/lib/jvm/current-java
 
 # JDK: http://www.java.net/download/java/jdk9/archive/145/binaries/jdk-9-ea+145_linux-x64_bin.tar.gz
