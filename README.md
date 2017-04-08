@@ -3,7 +3,7 @@ Java 9 Image for Docker
 
 Link: https://hub.docker.com/r/rayyildiz/java9/
 
-Current java : Latest version : *9 ea155*
+Current java : Latest version : *9 ea164*
 
 Tags:
 * jre
@@ -16,6 +16,7 @@ Tags:
 * jdkea153
 * jdkea154
 * jdkea155
+* jdkea164
 * jreea146
 * jreea147
 * jreea148
@@ -23,7 +24,8 @@ Tags:
 * jreea153
 * jreea154
 * jreea155
-* latest (ea155)
+* jreea164
+* latest (ea164)
 
 [![](https://images.microbadger.com/badges/image/rayyildiz/java9.svg)](https://microbadger.com/images/rayyildiz/java9 "Get your own image badge on microbadger.com")
 
