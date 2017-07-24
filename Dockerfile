@@ -18,7 +18,7 @@ ENV  JAVA_VERSION=9 \
 # JRE
 RUN cd /tmp && wget --header "Cookie: oraclelicense=accept-securebackup-cookie;" \
         "http://download.java.net/java/jdk9/archive/${JAVA_BUILD}/binaries/jre-${JAVA_VERSION}+${JAVA_BUILD}_linux-x64_bin.tar.gz" && \
-     tar xzf "jre-${JAVA_VERSION}-${JAVA_UPDATE}+${JAVA_BUILD}_linux-x64_bin.tar.gz" && \
+     tar xzf "jre-${JAVA_VERSION}+${JAVA_BUILD}_linux-x64_bin.tar.gz" && \
      mkdir -p /usr/lib/jvm && mv "/tmp/jre-${JAVA_VERSION}" "/usr/lib/jvm/java-${JAVA_VERSION}-oracle"  && \
      ln -s "java-${JAVA_VERSION}-oracle" $JAVA_HOME && \
      ln -s $JAVA_HOME/bin/java /usr/bin/java && \
