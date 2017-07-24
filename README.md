@@ -6,8 +6,8 @@ Link: https://hub.docker.com/r/rayyildiz/java9/
 Current java : Latest version : *9 ea178*
 
 Tags:
-* jre
-* jdk
+* jre (ea178)
+* jdk (ea178)
 * jdkea145
 * jreea145
 * jdkea147
@@ -18,6 +18,7 @@ Tags:
 * jdkea155
 * jdkea164
 * jdkea168
+* jdkea178
 * jreea146
 * jreea147
 * jreea148
