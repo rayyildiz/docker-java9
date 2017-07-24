@@ -30,7 +30,7 @@ ENV  JAVA_VERSION=9 \
 # JDK
 RUN cd /tmp && wget --header "Cookie: oraclelicense=accept-securebackup-cookie;" \
        "http://download.java.net/java/jdk9/archive/${JAVA_BUILD}/binaries/jdk-${JAVA_VERSION}+${JAVA_BUILD}_linux-x64_bin.tar.gz" && \
-    tar xzf "jdk-${JAVA_VERSION}-${JAVA_UPDATE}+${JAVA_BUILD}_linux-x64_bin.tar.gz" && \
+    tar xzf "jdk-${JAVA_VERSION}+${JAVA_BUILD}_linux-x64_bin.tar.gz" && \
     mkdir -p /usr/lib/jvm && mv "/tmp/jdk-${JAVA_VERSION}" "/usr/lib/jvm/java-${JAVA_VERSION}-oracle"  && \
     ln -s "java-${JAVA_VERSION}-oracle" $JAVA_HOME && \
     ln -s $JAVA_HOME/bin/java /usr/bin/java && \
