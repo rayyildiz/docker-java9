@@ -5,15 +5,13 @@ Java 9 relased now officially.  [More info](http://www.oracle.com/technetwork/ja
 
 Link: https://hub.docker.com/r/rayyildiz/java9/
 
-Current java : Latest version : *9*
+Current java : Latest version : **9.0.1**
 
 Tags:
-* jre
-* jdk
-* jdkea178 *EA* *JDK* 
-* jdkea181 *EA* *JDK*
-* jreea178 *EA* *JRE*
-* jreea181 *EA* *JRE*
+* jre ( version is *9.0.1*)
+* jdk ( version is *9.0.1*)
+* jre_9.0.1
+* jdk_9.0.1
 * latest (jre)
 
 [![](https://images.microbadger.com/badges/image/rayyildiz/java9.svg)](https://microbadger.com/images/rayyildiz/java9 "Get your own image badge on microbadger.com")
