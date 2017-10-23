@@ -1,14 +1,15 @@
 FROM       rayyildiz/base
 
 # Java Version
-ENV  JAVA_VERSION=9 \
+ENV  JAVA_VERSION=9.0.1 \
      JAVA_UPDATE=ea \
-     JAVA_BUILD=181  \
+     JAVA_BUILD=11  \
      JAVA_HOME=/usr/lib/jvm/current-java
 
 
 # JDK http://download.oracle.com/otn-pub/java/jdk/9+181/jdk-9_linux-x64_bin.tar.gz
 # JRE http://download.oracle.com/otn-pub/java/jdk/9+181/jre-9_linux-x64_bin.tar.gz
+#  http://download.oracle.com/otn-pub/java/jdk/9.0.1+11/jdk-9.0.1_linux-x64_bin.tar.gz
 
 
 # JRE
