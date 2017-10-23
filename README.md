@@ -5,7 +5,7 @@ Java 9 relased now officially.  [More info](http://www.oracle.com/technetwork/ja
 
 Link: https://hub.docker.com/r/rayyildiz/java9/
 
-Current java : Latest version : *9.0.1*
+Current java : Latest version : **9.0.1**
 
 Tags:
 * jre ( version is *9.0.1*)
